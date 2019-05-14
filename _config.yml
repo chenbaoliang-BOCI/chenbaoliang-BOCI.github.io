@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: zeerho
+title: chenbaoliang-BOCI
 subtitle:
 description: Just a repo for documents
-author: zeerho
+author: chenbaoliang-BOCI
 language: zh-Hans
 timezone:
 
@@ -78,5 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zeerho/zeerho.github.io.git
+  repo: git@github.com:chenbaoliang-BOCI/chenbaoliang-BOCI.github.io.git
   branch: master
